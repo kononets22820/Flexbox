@@ -26,10 +26,11 @@
     --fs-h4: 30px;
     --fs-h5: 25px;
     --fs-h6: 30px;
+    /* container sizes */
+    --container-space: 10px;
 }
 
-/* container sizes */
---container-space: 10px;
+
 
 /* resets */
 * {
